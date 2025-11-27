@@ -1,0 +1,5 @@
+{
+  "name": "WPForge AI",
+  "description": "An intelligent generator for custom WordPress plugins. Describe your needs, and WPForge creates the complete PHP codebase, ready to install.",
+  "requestFramePermissions": []
+}
